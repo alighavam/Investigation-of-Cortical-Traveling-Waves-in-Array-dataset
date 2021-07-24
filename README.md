@@ -1,2 +1,5 @@
 # Investigation-of-Cortical-Traveling-Waves-in-Array-dataset
-Analyzing the LFP data from multi-electrode array to confirm the existence of traveling waves.
+• The mesoscopic traveling waves were investigated in the premotor area F5 using
+the instantaneous phase of the signals and linear wave detection measures like phase
+gradient directionality (PGD)
+
